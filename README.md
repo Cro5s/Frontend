@@ -2,20 +2,20 @@
 The purpose of this repo is to provide a centralized resource for any Software Engineer looking to focus on Frontend development.
 
 ## Useful Repositories
-https://github.com/h5bp/Front-end-Developer-Interview-Questions
-https://github.com/yangshun/front-end-interview-handbook
-https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
-https://frontendmasters.com/books/front-end-handbook/2018/practice/interview-q.html
-https://frontendmasters.com/books/front-end-handbook/2019/#3.8
-https://www.freecodecamp.org/news/cracking-the-front-end-interview-9a34cd46237/
-https://www.toptal.com/javascript/interview-questions
-https://www.edureka.co/blog/interview-questions/javascript-interview-questions/
-https://hackr.io/blog/javascript-interview-questions
-https://www.fullstack.cafe/blog/front-end-developer-interview-questions
+* [Frontend Interview Questions Repo](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [Frontend Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+* [10 Questions Every JS Developer Should Know (Medium Article)](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+* [Frontend Interviews](https://frontendmasters.com/books/front-end-handbook/2018/practice/interview-q.html)
+* [Frontend Mastery](https://frontendmasters.com/books/front-end-handbook/2019/#3.8)
+* [Cracking the Frontend Interview](https://www.freecodecamp.org/news/cracking-the-front-end-interview-9a34cd46237/)
+* [37 Javascript Questions](https://www.toptal.com/javascript/interview-questions)
+* [Javascript Interview Questions](https://hackr.io/blog/javascript-interview-questions)
+* [50 Common Frontend Questions](https://www.fullstack.cafe/blog/front-end-developer-interview-questions)
+
 
 
 ## Algorithm:
-http://thatjsdude.com/interview/js1.html
+* [JS Interview Algorithms](http://thatjsdude.com/interview/js1.html)
 
 ## Questions to ask:
 https://github.com/Twipped/InterviewThis
