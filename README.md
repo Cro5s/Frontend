@@ -3,6 +3,7 @@ The purpose of this repo is to provide a centralized resource for any Software E
 
 ## Useful Repositories
 * [Frontend Interview Questions Repo](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction)
 * [Frontend Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 * [10 Questions Every JS Developer Should Know (Medium Article)](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 * [Frontend Interviews](https://frontendmasters.com/books/front-end-handbook/2018/practice/interview-q.html)
