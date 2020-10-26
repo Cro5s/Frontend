@@ -1,5 +1,5 @@
 # Overview
-The purpose of this repo is to provide a centralized resource for any Software Engineer looking to focus on Frontend development.
+The purpose of this repo is to provide a centralized resource for any Software Engineer looking to focus on Frontend development. Some of the information may overlap but it is all still very helpful!
 
 ## Useful Repositories
 * [Frontend Interview Questions Repo](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
